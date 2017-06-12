@@ -175,6 +175,8 @@ private:
     double   mSequenceEndTime;
     double   mCurTime;
 
+    bool     mStaticGeo;
+
     bool    mDebugOn;
 
     // bool for each output plug, (the 2 transform plugs are lumped together,
